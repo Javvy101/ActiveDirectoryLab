@@ -1,9 +1,9 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Disk Sanitization Home Lab</h1>
 
  
 
 <h2>Description</h2>
-In this Lab, Here is a step by step walkthrough of screenshots on how to create an Active Directory home lab environment using Virtual Box (VB). The utilization of configuring and running this lab will enhance one's understanding of how active directories and Windows networking operates.
+In this Lab, There will be a step by step walkthrough of screenshots on how to wipe any drives that are connected to a system. The Utility will allow you, the user, to select a target disk and thereby choosing the number of passes that are perfomed. The Windows PowerShell script will then configure a diskpart script file based on the selections of the user and then launching a "Diskpart" to perform the disk sanitization.
 <br />
 
 
